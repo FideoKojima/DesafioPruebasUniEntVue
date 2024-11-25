@@ -6,7 +6,6 @@
 
 ![Vue.js Testing](https://img.shields.io/badge/Vue.js-Testing-4FC08D?style=for-the-badge&logo=vue.js)
 ![Jest](https://img.shields.io/badge/Testing-Jest-C21325?style=for-the-badge&logo=jest)
-![GitHub last commit](https://img.shields.io/github/last-commit/tuusuario/vue-unit-testing?style=for-the-badge)
 
 ## 🌟 Características Principales
 
@@ -90,11 +89,6 @@ Puedes personalizar fácilmente:
 - Lógica de negocio
 - Configuración de pruebas
 
-## 🤝 Contribuciones
-
-¡Las contribuciones son bienvenidas! Por favor lee nuestras
-[Directrices de Contribución](CONTRIBUTING.md)
-
 ---
 
 ### 🌈 Desarrollado con ❤️ para Desafío Latam
@@ -102,5 +96,3 @@ Puedes personalizar fácilmente:
 **¡Pruebas unitarias nunca fueron tan divertidas!**
 
 ![Made with Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red?style=for-the-badge)
-"# DesafioPruebasUniEntVue" 
-"# DesafioPruebasUniEntVue" 
